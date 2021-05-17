@@ -1,4 +1,4 @@
-# Food App - tela de Favoritos
+# Food App - Tela de Favoritos
 
 Figma: https://www.figma.com/file/uZOJzn5adQCV2HuLGNYfGY/Food-App?node-id=0%3A1
 
